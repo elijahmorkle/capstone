@@ -1,2 +1,2 @@
-# capstone
-Elijah Morkle's Flatiron School Capstone Project
+The Capstone Project required by Flatiron School in order to graduate simulates a Cyber Security Engineering role in which you will be tasked with day to day operations and assignments sent to you by the CISO. Each task requires a report attached along with it. From analysing log files to network discovery to vulnerabiity assessments, the Flatiron School Capstone Project teaches valuable lessons on how to conduct common Cyber Security operations.
+
